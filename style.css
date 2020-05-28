@@ -4,6 +4,7 @@ header {
   font-size: 60px;
 }
 .flex-container {
+  margin-top: 10px;
   display: flex;
   background-color: aquamarine;
   color: "black";
